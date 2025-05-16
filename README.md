@@ -1,11 +1,11 @@
 # Flask Address Book
 
-###  Features
+### ✅ Features
 - Modular design
 - In-memory data storage
 - Follows API spec from the test
 
-###  How to Run
+### 🚀 How to Run
 
 ```bash
 git clone <this-project>
